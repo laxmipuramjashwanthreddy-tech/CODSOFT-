@@ -10,12 +10,12 @@ Calculates Total marks, percentage,and grade
 Manages student records with add,view and search features 
 
 # Technologies Used:
-Java
-OOP
-Scanner class for user Input
+*Java
+*OOP
+*Scanner class for user Input
 
 # Learning Outcomes:
-Understanding Java fundamentals 
-Working with loops,conditions and arrays
-Implementing menu-driven applications
-Applying Oop concepts in real world
+*Understanding Java fundamentals 
+*Working with loops,conditions and arrays
+*Implementing menu-driven applications
+*Applying Oop concepts in real world
